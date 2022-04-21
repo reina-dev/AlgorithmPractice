@@ -1,0 +1,3 @@
+def solution(n):
+    A = sum(map(int, str(n)))
+    return A
